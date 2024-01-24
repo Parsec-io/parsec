@@ -1,3 +1,13 @@
+```
+______                        
+| ___ \                       
+| |_/ /_ _ _ __ ___  ___  ___ 
+|  __/ _` | '__/ __|/ _ \/ __|
+| | | (_| | |  \__ \  __/ (__ 
+\_|  \__,_|_|  |___/\___|\___|
+```
+
+
 # Parsec: Collaborative Editing in Vim/Neovim
 Parsec is an open-source project that transforms Vim/Neovim into a real-time collaborative editor, allowing users to seamlessly code together. With Parsec, experience the power of Vim/Neovim while collaborating with others as if you were coding in the same room.
 
